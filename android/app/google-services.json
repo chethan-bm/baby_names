@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562529082732",
+    "firebase_url": "https://baby-names-app-db-12dab.firebaseio.com",
+    "project_id": "baby-names-app-db-12dab",
+    "storage_bucket": "baby-names-app-db-12dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562529082732:android:ffaa4ef396fee7c17d6749",
+        "android_client_info": {
+          "package_name": "com.amayaka.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562529082732-vr5s3s48e8uppub51vep88hsk8s7sr2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqIXvU-hmBttFRGPri-_1JYS7Kus5H2a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562529082732-vr5s3s48e8uppub51vep88hsk8s7sr2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562529082732-2rjmn75j40heh8gagn13idsmm7rcbfn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amayaka.babynames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
